@@ -4,6 +4,9 @@ This repository contains the code for a text summarizer, specifically developed 
 
 The aim of the project was to generate a training dataset using GPT-4 to help the model summarizing emails. 
 
+The project article : https://medium.com/@pydathon/part-1-how-to-enhance-your-fine-tuning-journey-using-gpt-4-and-barthez-for-summarization-ed28306c27fb
+
+
 
 @article{eddine2020barthez,
   title={BARThez: a Skilled Pretrained French Sequence-to-Sequence Model},
